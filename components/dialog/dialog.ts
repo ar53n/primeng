@@ -3,6 +3,7 @@ import {CommonModule} from '@angular/common';
 import {DomHandler} from '../dom/domhandler';
 import {Header,SharedModule} from '../common/shared';
 
+
 @Component({
     selector: 'p-dialog',
     template: `
