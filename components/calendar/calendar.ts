@@ -11,6 +11,7 @@ export const CALENDAR_VALUE_ACCESSOR: any = {
   multi: true
 };
 
+
 export interface LocaleSettings {
     firstDayOfWeek?: number;
     dayNames: string[];
